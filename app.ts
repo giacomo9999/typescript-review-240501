@@ -1,1 +1,1 @@
-console.log("Type")
+console.log("Type");
